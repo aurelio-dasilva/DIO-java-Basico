@@ -1,3 +1,4 @@
 # DIO-java-Basico
-Armazenamento de Código das Aulas Java Básico
-Testando o commit pelo VsCode!!!
+Armazenamento de Código das Aulas Java Básico     
+Testando o commit pelo VsCode!!!   
+Praticando Commit
