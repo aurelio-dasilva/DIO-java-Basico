@@ -1,4 +1,4 @@
-public class tiposVariaveis {
+public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         int idade; //Tipo "int", nome "idade", com nenhum valor atribuído. 
         int anoFabricacao = 2021; //tipo "int", nome "anoFabricacao", com valor 2021.
