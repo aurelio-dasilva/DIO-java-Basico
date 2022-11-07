@@ -16,14 +16,14 @@ public class Mensagem {
             case 10:
             case 11:
             case 12:
-                System.out.println("Bom dia!");
+                System.out.println("Bom dia!!!");
                 break;
             case 13:
             case 14:
             case 15:
             case 16:
             case 17:
-                System.out.println("Bom tarde!");
+                System.out.println("Bom tarde!!!");
                 break;
             case 18:
             case 19:
@@ -35,7 +35,7 @@ public class Mensagem {
             case 1:
             case 2:
             case 3:
-                System.out.println("Bom noite!");
+                System.out.println("Bom noite!!!");
                 break;
             default:
                 System.out.println("Hora invalida");
